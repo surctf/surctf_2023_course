@@ -4,7 +4,7 @@
   
 > Моя главная слабость это пароли, попробуй его отыскать.  
 >  
-> [Vasya.vmem](Vasya.vmem)  
+> [Vasya.vmem](https://drive.google.com/file/d/1WBsKacRKXGrZRf2IKHlulpbWsRPpyVBA/view?usp=sharing)  
 
 [Write-up](WRITEUPS.md#1-ctrlvmem)
   
@@ -12,6 +12,6 @@
 
 > Люблю открывать много маленьких окошек на винде, мне кажется я очень продуктивный...  
 >  
-> [Vasya.vmem](Vasya.vmem)  
+> [Vasya.vmem](https://drive.google.com/file/d/1WBsKacRKXGrZRf2IKHlulpbWsRPpyVBA/view?usp=sharing)  
 
 [Write-up](WRITEUPS.md#2-vmem_imager)
