@@ -118,6 +118,6 @@ pig@door:~$ mv 1592.dmp 1592.data
 ```
 
 5. Закидываем файл в `GIMP` и настраиваем смещение и ширину. Получаем флаг.
-![](forensic/forensic.png)
+![](forensic.png)
 
 `flag: surctf_its_window_buffer`
